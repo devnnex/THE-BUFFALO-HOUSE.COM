@@ -1,0 +1,12 @@
+{
+  "name": "The Buffalo House",
+  "short_name": "TBH",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff0000",
+  "icons": [
+    { "src": "./images/favicon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./images/favicon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
